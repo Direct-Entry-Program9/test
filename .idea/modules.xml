@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/array-class/array-class.iml" filepath="$PROJECT_DIR$/array-class/array-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic-array/dynamic-array.iml" filepath="$PROJECT_DIR$/dynamic-array/dynamic-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singly-linked-list/singly-linked-list.iml" filepath="$PROJECT_DIR$/singly-linked-list/singly-linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toString/toString.iml" filepath="$PROJECT_DIR$/toString/toString.iml" />
+    </modules>
+  </component>
+</project>
